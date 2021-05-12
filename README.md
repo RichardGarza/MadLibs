@@ -1,3 +1,3 @@
 # MadLibs
 
-This is my attempt at a Python-based MadLibs game.
+This is a Python-based MadLibs game.
